@@ -13,11 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/santosh-1394/dailyleet/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/santosh-1394/dailyleet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/santosh-1394/dailyleet/tree/master/0283-move-zeroes) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/santosh-1394/dailyleet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/santosh-1394/dailyleet/tree/master/2965-find-missing-and-repeated-values) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/santosh-1394/dailyleet/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
 | ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/santosh-1394/dailyleet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/santosh-1394/dailyleet/tree/master/2965-find-missing-and-repeated-values) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/santosh-1394/dailyleet/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/santosh-1394/dailyleet/tree/master/0011-container-with-most-water) |
+## Sliding Window
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/santosh-1394/dailyleet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
