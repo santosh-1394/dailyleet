@@ -4,20 +4,20 @@ class Solution(object):
         :type fruits: List[int]
         :rtype: int
         """
-        from collections import defaultdict
-        
-        count = defaultdict(int)
+        count = {}
         left = 0
         max_len = 0
         
         for right in range(len(fruits)):
-            count[fruits[right]] += 1
+            fruit = fruits[right]
+            count[fruit] = count.get(fruit, 0) + 1
             
             
             while len(count) > 2:
-                count[fruits[left]] -= 1
-                if count[fruits[left]] == 0:
-                    del count[fruits[left]]
+                left_fruit = fruits[left]
+                count[left_fruit] -= 1
+                if count[left_fruit] == 0:
+                    del count[left_fruit]
                 left += 1
             
             
