@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/santosh-1394/dailyleet/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/santosh-1394/dailyleet/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/santosh-1394/dailyleet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0238-product-of-array-except-self](https://github.com/santosh-1394/dailyleet/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/santosh-1394/dailyleet/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/santosh-1394/dailyleet/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/santosh-1394/dailyleet/tree/master/0560-subarray-sum-equals-k) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/santosh-1394/dailyleet/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/santosh-1394/dailyleet/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/santosh-1394/dailyleet/tree/master/0724-find-pivot-index) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/santosh-1394/dailyleet/tree/master/3737-count-subarrays-with-majority-element-i) |
