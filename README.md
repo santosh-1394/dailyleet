@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/santosh-1394/dailyleet/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/santosh-1394/dailyleet/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/santosh-1394/dailyleet/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0977-squares-of-a-sorted-array](https://github.com/santosh-1394/dailyleet/tree/master/0977-squares-of-a-sorted-array) |
 | [1314-matrix-block-sum](https://github.com/santosh-1394/dailyleet/tree/master/1314-matrix-block-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/santosh-1394/dailyleet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/santosh-1394/dailyleet/tree/master/2965-find-missing-and-repeated-values) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/santosh-1394/dailyleet/tree/master/0283-move-zeroes) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/santosh-1394/dailyleet/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/santosh-1394/dailyleet/tree/master/0844-backspace-string-compare) |
+| [0977-squares-of-a-sorted-array](https://github.com/santosh-1394/dailyleet/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/santosh-1394/dailyleet/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/santosh-1394/dailyleet/tree/master/0088-merge-sorted-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/santosh-1394/dailyleet/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0977-squares-of-a-sorted-array](https://github.com/santosh-1394/dailyleet/tree/master/0977-squares-of-a-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
