@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/santosh-1394/dailyleet/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/santosh-1394/dailyleet/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/santosh-1394/dailyleet/tree/master/0342-power-of-four) |
 | [0523-continuous-subarray-sum](https://github.com/santosh-1394/dailyleet/tree/master/0523-continuous-subarray-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/santosh-1394/dailyleet/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/santosh-1394/dailyleet/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/santosh-1394/dailyleet/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/santosh-1394/dailyleet/tree/master/0342-power-of-four) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -154,4 +156,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/santosh-1394/dailyleet/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/santosh-1394/dailyleet/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/santosh-1394/dailyleet/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
