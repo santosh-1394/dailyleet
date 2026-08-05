@@ -4,19 +4,21 @@ class Solution(object):
         :type k: int
         :rtype: str
         """
-        length = 1
-        while length < k:
-            length *= 2
 
-        shifts = 0
+        def solve(k):
+            if k == 1:
+                return 0
 
-        while k > 1:
+            length = 1
+            while length < k:
+                length *= 2
+
             half = length // 2
+
             if k > half:
-                k -= half
-                shifts += 1
-            length = half
+                return solve(k - half) + 1
+            else:
+                return solve(k)
 
-        
+        shifts = solve(k)
         return chr(ord('a') + shifts % 26)
-
