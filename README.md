@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1314-matrix-block-sum](https://github.com/santosh-1394/dailyleet/tree/master/1314-matrix-block-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/santosh-1394/dailyleet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/santosh-1394/dailyleet/tree/master/2965-find-missing-and-repeated-values) |
+| [3238-find-the-number-of-winning-players](https://github.com/santosh-1394/dailyleet/tree/master/3238-find-the-number-of-winning-players) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/santosh-1394/dailyleet/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/santosh-1394/dailyleet/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/santosh-1394/dailyleet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/santosh-1394/dailyleet/tree/master/2965-find-missing-and-repeated-values) |
+| [3238-find-the-number-of-winning-players](https://github.com/santosh-1394/dailyleet/tree/master/3238-find-the-number-of-winning-players) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/santosh-1394/dailyleet/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [3238-find-the-number-of-winning-players](https://github.com/santosh-1394/dailyleet/tree/master/3238-find-the-number-of-winning-players) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/santosh-1394/dailyleet/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
