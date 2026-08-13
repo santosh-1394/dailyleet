@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/santosh-1394/dailyleet/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/santosh-1394/dailyleet/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/santosh-1394/dailyleet/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0594-longest-harmonious-subsequence](https://github.com/santosh-1394/dailyleet/tree/master/0594-longest-harmonious-subsequence) |
 | [0724-find-pivot-index](https://github.com/santosh-1394/dailyleet/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/santosh-1394/dailyleet/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/santosh-1394/dailyleet/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/santosh-1394/dailyleet/tree/master/0219-contains-duplicate-ii) |
 | [0523-continuous-subarray-sum](https://github.com/santosh-1394/dailyleet/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/santosh-1394/dailyleet/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/santosh-1394/dailyleet/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/santosh-1394/dailyleet/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/santosh-1394/dailyleet/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/santosh-1394/dailyleet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/santosh-1394/dailyleet/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/santosh-1394/dailyleet/tree/master/0088-merge-sorted-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/santosh-1394/dailyleet/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0594-longest-harmonious-subsequence](https://github.com/santosh-1394/dailyleet/tree/master/0594-longest-harmonious-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/santosh-1394/dailyleet/tree/master/0977-squares-of-a-sorted-array) |
 ## Bit Manipulation
 |  |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/santosh-1394/dailyleet/tree/master/0594-longest-harmonious-subsequence) |
 | [3238-find-the-number-of-winning-players](https://github.com/santosh-1394/dailyleet/tree/master/3238-find-the-number-of-winning-players) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/santosh-1394/dailyleet/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
@@ -133,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/santosh-1394/dailyleet/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/santosh-1394/dailyleet/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/santosh-1394/dailyleet/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/santosh-1394/dailyleet/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/santosh-1394/dailyleet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
