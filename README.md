@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/santosh-1394/dailyleet/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/santosh-1394/dailyleet/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/santosh-1394/dailyleet/tree/master/0977-squares-of-a-sorted-array) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/santosh-1394/dailyleet/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1314-matrix-block-sum](https://github.com/santosh-1394/dailyleet/tree/master/1314-matrix-block-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/santosh-1394/dailyleet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/santosh-1394/dailyleet/tree/master/2965-find-missing-and-repeated-values) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/santosh-1394/dailyleet/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/santosh-1394/dailyleet/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/santosh-1394/dailyleet/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/santosh-1394/dailyleet/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/santosh-1394/dailyleet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/santosh-1394/dailyleet/tree/master/2965-find-missing-and-repeated-values) |
 | [3238-find-the-number-of-winning-players](https://github.com/santosh-1394/dailyleet/tree/master/3238-find-the-number-of-winning-players) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/santosh-1394/dailyleet/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1314-matrix-block-sum](https://github.com/santosh-1394/dailyleet/tree/master/1314-matrix-block-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/santosh-1394/dailyleet/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/santosh-1394/dailyleet/tree/master/0844-backspace-string-compare) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/santosh-1394/dailyleet/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/santosh-1394/dailyleet/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Monotonic Stack
 |  |
