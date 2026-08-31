@@ -173,4 +173,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/santosh-1394/dailyleet/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/santosh-1394/dailyleet/tree/master/0342-power-of-four) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/santosh-1394/dailyleet/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+## Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/santosh-1394/dailyleet/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/santosh-1394/dailyleet/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/santosh-1394/dailyleet/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
