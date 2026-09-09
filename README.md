@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/santosh-1394/dailyleet/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/santosh-1394/dailyleet/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/santosh-1394/dailyleet/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/santosh-1394/dailyleet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0136-single-number](https://github.com/santosh-1394/dailyleet/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/santosh-1394/dailyleet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/santosh-1394/dailyleet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/santosh-1394/dailyleet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0160-intersection-of-two-linked-lists](https://github.com/santosh-1394/dailyleet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/santosh-1394/dailyleet/tree/master/0219-contains-duplicate-ii) |
 | [0523-continuous-subarray-sum](https://github.com/santosh-1394/dailyleet/tree/master/0523-continuous-subarray-sum) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/santosh-1394/dailyleet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/santosh-1394/dailyleet/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/santosh-1394/dailyleet/tree/master/0100-same-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/santosh-1394/dailyleet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/santosh-1394/dailyleet/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -188,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/santosh-1394/dailyleet/tree/master/0100-same-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/santosh-1394/dailyleet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/santosh-1394/dailyleet/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
