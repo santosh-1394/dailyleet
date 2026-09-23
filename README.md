@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/santosh-1394/dailyleet/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/santosh-1394/dailyleet/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/santosh-1394/dailyleet/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/santosh-1394/dailyleet/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/santosh-1394/dailyleet/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/santosh-1394/dailyleet/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/santosh-1394/dailyleet/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/santosh-1394/dailyleet/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/santosh-1394/dailyleet/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/santosh-1394/dailyleet/tree/master/0844-backspace-string-compare) |
 ## Simulation
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/santosh-1394/dailyleet/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/santosh-1394/dailyleet/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Linked List
 |  |
