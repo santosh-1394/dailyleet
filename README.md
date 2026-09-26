@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/santosh-1394/dailyleet/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/santosh-1394/dailyleet/tree/master/0594-longest-harmonious-subsequence) |
 | [0724-find-pivot-index](https://github.com/santosh-1394/dailyleet/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/santosh-1394/dailyleet/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/santosh-1394/dailyleet/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/santosh-1394/dailyleet/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/santosh-1394/dailyleet/tree/master/0977-squares-of-a-sorted-array) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/santosh-1394/dailyleet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/santosh-1394/dailyleet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/santosh-1394/dailyleet/tree/master/0209-minimum-size-subarray-sum) |
+| [0875-koko-eating-bananas](https://github.com/santosh-1394/dailyleet/tree/master/0875-koko-eating-bananas) |
 ## Greedy
 |  |
 | ------- |
