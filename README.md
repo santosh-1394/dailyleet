@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/santosh-1394/dailyleet/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/santosh-1394/dailyleet/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/santosh-1394/dailyleet/tree/master/0977-squares-of-a-sorted-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/santosh-1394/dailyleet/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/santosh-1394/dailyleet/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1314-matrix-block-sum](https://github.com/santosh-1394/dailyleet/tree/master/1314-matrix-block-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/santosh-1394/dailyleet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/santosh-1394/dailyleet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/santosh-1394/dailyleet/tree/master/0209-minimum-size-subarray-sum) |
 | [0875-koko-eating-bananas](https://github.com/santosh-1394/dailyleet/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/santosh-1394/dailyleet/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Greedy
 |  |
 | ------- |
