@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/santosh-1394/dailyleet/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/santosh-1394/dailyleet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/santosh-1394/dailyleet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/santosh-1394/dailyleet/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/santosh-1394/dailyleet/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/santosh-1394/dailyleet/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/santosh-1394/dailyleet/tree/master/0238-product-of-array-except-self) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/santosh-1394/dailyleet/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/santosh-1394/dailyleet/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/santosh-1394/dailyleet/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/santosh-1394/dailyleet/tree/master/0342-power-of-four) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/santosh-1394/dailyleet/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/santosh-1394/dailyleet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/santosh-1394/dailyleet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/santosh-1394/dailyleet/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/santosh-1394/dailyleet/tree/master/0283-move-zeroes) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/santosh-1394/dailyleet/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/santosh-1394/dailyleet/tree/master/0844-backspace-string-compare) |
