@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/santosh-1394/dailyleet/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/santosh-1394/dailyleet/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/santosh-1394/dailyleet/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/santosh-1394/dailyleet/tree/master/0326-power-of-three) |
@@ -201,10 +202,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/santosh-1394/dailyleet/tree/master/0002-add-two-numbers) |
 | [0160-intersection-of-two-linked-lists](https://github.com/santosh-1394/dailyleet/tree/master/0160-intersection-of-two-linked-lists) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/santosh-1394/dailyleet/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/santosh-1394/dailyleet/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/santosh-1394/dailyleet/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/santosh-1394/dailyleet/tree/master/0342-power-of-four) |
