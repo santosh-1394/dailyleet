@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/santosh-1394/dailyleet/tree/master/0844-backspace-string-compare) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/santosh-1394/dailyleet/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -187,11 +188,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/santosh-1394/dailyleet/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/santosh-1394/dailyleet/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/santosh-1394/dailyleet/tree/master/0844-backspace-string-compare) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/santosh-1394/dailyleet/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Simulation
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/santosh-1394/dailyleet/tree/master/0844-backspace-string-compare) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/santosh-1394/dailyleet/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/santosh-1394/dailyleet/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/santosh-1394/dailyleet/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Monotonic Stack
 |  |
