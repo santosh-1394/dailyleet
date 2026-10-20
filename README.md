@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/santosh-1394/dailyleet/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/santosh-1394/dailyleet/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/santosh-1394/dailyleet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/santosh-1394/dailyleet/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/santosh-1394/dailyleet/tree/master/1544-make-the-string-great) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/santosh-1394/dailyleet/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/santosh-1394/dailyleet/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/santosh-1394/dailyleet/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/santosh-1394/dailyleet/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/santosh-1394/dailyleet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/santosh-1394/dailyleet/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/santosh-1394/dailyleet/tree/master/1544-make-the-string-great) |
@@ -321,5 +323,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/santosh-1394/dailyleet/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/santosh-1394/dailyleet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
