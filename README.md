@@ -331,5 +331,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/santosh-1394/dailyleet/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/santosh-1394/dailyleet/tree/master/0178-rank-scores) |
 | [0184-department-highest-salary](https://github.com/santosh-1394/dailyleet/tree/master/0184-department-highest-salary) |
+| [0585-investments-in-2016](https://github.com/santosh-1394/dailyleet/tree/master/0585-investments-in-2016) |
 | [0627-swap-sex-of-employees](https://github.com/santosh-1394/dailyleet/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
