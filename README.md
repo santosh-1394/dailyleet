@@ -325,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0856-score-of-parentheses](https://github.com/santosh-1394/dailyleet/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/santosh-1394/dailyleet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/santosh-1394/dailyleet/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
