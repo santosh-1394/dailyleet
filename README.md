@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/santosh-1394/dailyleet/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/santosh-1394/dailyleet/tree/master/0189-rotate-array) |
+| [0227-basic-calculator-ii](https://github.com/santosh-1394/dailyleet/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/santosh-1394/dailyleet/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/santosh-1394/dailyleet/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/santosh-1394/dailyleet/tree/master/0342-power-of-four) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/santosh-1394/dailyleet/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/santosh-1394/dailyleet/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/santosh-1394/dailyleet/tree/master/0402-remove-k-digits) |
 | [0844-backspace-string-compare](https://github.com/santosh-1394/dailyleet/tree/master/0844-backspace-string-compare) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/santosh-1394/dailyleet/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/santosh-1394/dailyleet/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/santosh-1394/dailyleet/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/santosh-1394/dailyleet/tree/master/0503-next-greater-element-ii) |
