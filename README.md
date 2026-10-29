@@ -350,4 +350,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/santosh-1394/dailyleet/tree/master/0184-department-highest-salary) |
 | [0585-investments-in-2016](https://github.com/santosh-1394/dailyleet/tree/master/0585-investments-in-2016) |
 | [0627-swap-sex-of-employees](https://github.com/santosh-1394/dailyleet/tree/master/0627-swap-sex-of-employees) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/santosh-1394/dailyleet/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 <!---LeetCode Topics End-->
